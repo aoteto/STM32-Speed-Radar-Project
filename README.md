@@ -67,7 +67,6 @@ Buttons are configured as `INPUT_PULLUP`, so each button should pull the pin to 
 
 ```bash
 git clone https://github.com/aoteto/STM32-Speed-Radar-Project.git
-cd speed-radar
 ```
 
 3. Connect the STM32 board to your computer over USB.
