@@ -4,6 +4,8 @@ An open-source speed radar project built with the Arduino framework for the STM3
 
 The system measures the speed of an object passing between two IR sensors. It uses an OLED display, joystick, push buttons, RGB LED, buzzer, and EEPROM-based storage for measurement history and settings.
 
+This project delivered for Yaşar University, EEE 3134 Microcontrollers course. You can see project report on /docs folder.
+
 ## Features
 
 - Bidirectional speed measurement using two IR sensors
